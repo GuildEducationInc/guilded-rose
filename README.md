@@ -4,7 +4,7 @@ This Kata was forked from [Emily Bache's version](https://github.com/emilybache/
 
 ## How to use this Kata
 
-To start, ou'll want to look at the requirements outlined below, which explain what the code is for. We strongly advise you that you'll also need some tests if you want to make sure you don't break the code while you refactor.
+To start, you'll want to look at the requirements outlined below, which explain what the code is for. We strongly advise you that you'll also need some tests if you want to make sure you don't break the code while you refactor.
 
 You could write some unit tests yourself, using the requirements to identify suitable test cases. We've provided a failing unit test in a popular test framework as a starting point for most languages.
 
