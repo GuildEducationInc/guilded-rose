@@ -2,15 +2,19 @@
 
 This Kata was forked from [Emily Bache's version](https://github.com/emilybache/GildedRose-Refactoring-Kata) and modified to fit the needs of the Guild Education engineering team.
 
-## How to use this Kata
+Select a language to do your code challenege in. Each language has a README explaining how to run your tests. You'll have two hours to interpret the requirements below, write tests, and refactor the implementation in your chosen language.
+
+## Code Challenge
 
 To start, you'll want to look at the requirements outlined below, which explain what the code is for. We strongly advise you that you'll also need some tests if you want to make sure you don't break the code while you refactor.
 
-You could write some unit tests yourself, using the requirements to identify suitable test cases. We've provided a failing unit test in a popular test framework as a starting point for most languages.
+You should write some unit tests yourself, using the requirements below to identify suitable test cases. We've provided a failing unit test in a popular test framework as a starting point for you.
 
-Whichever testing approach you choose, the idea of the exercise is to do some deliberate practice, and demonstrate your skills at designing test cases and refactoring. The idea is not to re-write the code from scratch, but rather to practice designing tests, taking small steps, running the tests often, and incrementally improving the design.
+Whichever testing approach you choose, the idea of the exercise is to demonstrate your skills at designing test cases and refactoring.
 
 ## Requirements
+
+*Estos requisitos también están disponibles [en Español](./GildedRoseRequirements_es.md).*
 
 Hi and welcome to team Gilded Rose. As you know, we are a small inn with a prime location in a
 prominent city ran by a friendly innkeeper named Allison. We also buy and sell only the finest goods.
