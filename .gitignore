@@ -2,4 +2,4 @@
 *.pyc
 /perl6/lib/.precomp
 /elixir/_build/
-js/node_modules
+/javascript/node_modules
