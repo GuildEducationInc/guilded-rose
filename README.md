@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+>
+> This project is deprecated and is read-only for historical context only.
+
 # Gilded Rose Refactoring Kata
 
 This Kata was forked from [Emily Bache's version](https://github.com/emilybache/GildedRose-Refactoring-Kata) and modified to fit the needs of the Guild Education engineering team.
